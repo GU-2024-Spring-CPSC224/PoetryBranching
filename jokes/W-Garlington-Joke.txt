@@ -1,0 +1,5 @@
+Why do programmers prefer dark mode when they work with Git?
+
+Because they don't want to be blinded by unmerged branches
+-ChatGPT
+5/10 not a very good joke
