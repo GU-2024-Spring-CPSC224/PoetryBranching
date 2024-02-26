@@ -1,0 +1,5 @@
+$ responses = Http::pool(fn ($pool) ⇒ [
+	$pool→post('https://graph.facebook.com/...'),
+	$pool→post('https://api.twitter.com/...'),
+	$pool→post('https://api.linkedin.com/...'),
+]);
