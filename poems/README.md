@@ -11,4 +11,3 @@ You need to add your own poem to this directory:
  solution
 
 6) Done!
-
